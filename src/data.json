@@ -1,0 +1,67 @@
+{
+    "product" : [
+        { 
+            "id": "1111", 
+            "name": "Kaos Polos", 
+            "stok": "0", 
+            "harga": "50000", 
+            "rating": "5.0", 
+            "deskripsi": "100 % Cotton Combed 24S Size S - XL, Rib Leher memakai Rib Spandex sehingga tidak mudah melar, Penjahitan Ganda di bagian ujung lengan & bawah kaos, Daya serap keringat lebih tinggi, Easy Tear Away Label (Mudah disobek),Care label satin (tidak menyebabkan gatal), Export Quality. Toleransi 1-2cm. Noted : Untuk komplain penerimaan produk wajib memberikan Video UNBOXING sebelum dibuka."
+        },
+        { 
+            "id":"1717", 
+            "name":"Kaos Kaki Polos", 
+            "stok":"0", 
+            "harga":"7500", 
+            "rating":"4.5", 
+            "deskripsi": "Kondisi: Baru, Berat Satuan: 100 g, Kategori: Kaos Kaki Pria, Etalase: KAOS KAKI. Kaos Kaki: PREMIUM Quality ORIGINAL prodigo. Ukuran: Semata Kaki untuk Pria Dewasa Bahan: Cotton ( Menyerap Keringat dan Sangat LEMBUT ) Sangat Cocok untuk segala macam aktivitas. Ukuran Kaos Kaki: Kaos kaki pendek di atas mata kaki Ukuran laki-laki dewasa. spesifikasi bahan : 80% Combed Cotton, 17% Spandex, 3% Elasthan"
+        },
+        { 
+            "id":"1212", 
+            "name":"Celana Polos Pendek", 
+            "stok":"0", 
+            "harga":"75000", 
+            "rating":"4.5", 
+            "deskripsi": "Kondisi: Baru, Berat Satuan: 250 g, Kategori: Celana Pendek Pria, Etalase: Semua Etalase bahan beby tery pesti lembut, dan nyaman dipakai, jahitan rapih"
+        },
+        { 
+            "id":"1414", 
+            "name":"Topi Polos", 
+            "stok":"30", 
+            "harga":"15000", 
+            "rating":"3.5", 
+            "deskripsi": "Kondisi: Baru, Berat Satuan: 100 - 200 g, Kategori: Topi Baseball, Etalase: ESUTO FASHION. Bahan american drill. Kwalitas Jahitan baik. Pengaturan belakang bisa dibesarkan/dikecilkan. Lingkar kepala 54-60 cm. Bisa COD. Garansi Pengembalian barang"
+        },
+        { 
+            "id":"1515", 
+            "name":"Kopiah Polos", 
+            "stok":"45", 
+            "harga":"5000", 
+            "rating":"0", 
+            "deskripsi": "Kondisi: Baru, Berat Satuan: 65 g, Kategori: Peci & Kopiah, Etalase: Al-adwi-production cap peci kopiah asagofah Turky polos dengan bahan semi goni dan kualitas jahitan yang rapih menghasilkan pnampilan peci yang memukau dan sudah teruji laku keras terutama d kalangan usia anak muda dan lansia juga cocok"
+        },
+        { 
+            "id":"1616", 
+            "name":"Baju Programmer", 
+            "stok":"30", 
+            "harga":"25000", 
+            "rating":"3.0", 
+            "deskripsi": "Kondisi: Baru, Berat Satuan: 200 g, Kategori: Kaos Pria, Etalase: Kaos Custom Premium TERBAIK PREMIUM TERJANGKAU T-SHIRT DISTRO by Sweetees!!!, Gambar hanya Ilustrasi pada Model Sweetees. Design kaos di cetak ukuran Standar A4 (20cm x 29cm). Kaos Premium, Kaos Pria, Kaos Wanita, Kaos Anak, Kaos Lengan Panjang Kaos Raglan. Bahan premium quality cotton combed 24s, bahan terbaik, dan nyaman dipakai sehari-hari. Tinta langsung menyerap di atas serat kain dan hasil sablon terlihat halus. Gambar akan dicetak menggunakan teknologi Digital Printing terkini dengan kualitas terbaik, yaitu (PRINT and CUT). Hasil cetak dijamin awet."},
+        { 
+            "id":"1313", 
+            "name":"Jaket Polos", 
+            "stok":"25", 
+            "harga":"35000",
+            "rating":"3.0", 
+            "deskripsi": "Kondisi: Baru, Berat Satuan: 550 g, Kategori: Jaket Pria. Etalase: ZIPPER HOODIE POLOS PRIA.**DETAIL PRODUK** Bahan : Flecce 100% REALPICK nyaman di pakai di saat musim panas atau musim hujan Warna sesuai Gambar Tahan Lama ( AWET ) Harga Terjangkau SIZE ( UKURAN LOKAL MENGIKUTI SIZE INDO )"
+        },
+        { 
+            "id":"1818",
+            "name":"Ikat kepala Polos", 
+            "stok":"50", 
+            "harga":"15000", 
+            "rating":"0", 
+            "deskripsi": "Kondisi: Baru, Berat Satuan: 500 g, Kategori: Headband, Etalase: OLAHRAGA Hats Hair Accessories. READY STOCK ! Handle sweat like a pro with the ultra-light Airlift Headband. It’s made with our sleek, wicking performance fabric and keeps hair in place, so you can focus on your practice. No-slip grips Sleek, performance Airlift Cinched center detail."
+        }
+    ]
+}

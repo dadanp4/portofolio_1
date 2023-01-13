@@ -1,0 +1,10 @@
+{
+    "datauser": [
+        {
+            "id":"1",
+            "username":"jhon",
+            "email":"jhon@gmail.com",
+            "password":"jhon123"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+body{
+    /* background-image: url('../img/img-web/bg.jpg'); */
+    /* background-color: #fbf5ef; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;  
+    background-size: cover;
+    font-family: "Trirong", serif;
+    font-size: 16px;
+    text-shadow: 3px 3px 3px #ababab;
+}
+ul{
+    list-style-type: none;
+}
+header{
+    text-align: center;
+}
+main{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+
+.frameproduct{
+    /* background-image: url('../img/img-web/frameproduct.png'); */
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+    /* background-size: 185px 280px; */
+    background: white;
+    width: 190px;
+    height: 280px;
+    border: 2px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+}
+.checked {
+    position: relative;
+    top: 5px;
+    left: 5px;
+    color: orange;
+}
+.rating{
+    position: relative;
+    top: -15px;
+    left: 25px;    
+    font-size: 13px;
+}
+.namaproduct{
+    position: relative;
+    top: -60px;
+    left: 15px;
+}
+.namaproductchild{
+    white-space: nowrap; 
+    width: 160px; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    /* border: 1px solid #000000; */
+}
+.hargaproduct{
+    font-size: 12px;
+    position: relative;
+    top: -80px;
+    left: 15px;
+}
+.fotoproduct{
+    top: -50px;
+    left: 00px;
+    position: relative;
+    transition: ease-in-out 0.4s;
+    cursor: pointer;
+}
+.fotoproduct:hover{
+    /* transform: rotate(-10deg); */
+    width: 206px;
+}
+.whitebtn{
+    border-radius: 100%;
+    border: none;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: white;
+}
+.greenbtn{
+    border-radius: 100%;
+    border: none;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: green;
+}
+.redbtn{
+    border-radius: 100%;
+    border: none;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: red;
+}
+
+#footer{
+    position: fixed;
+    left: 550px;
+    bottom: 0;
+}
+
